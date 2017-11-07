@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d2fd9e3-8baf-4d47-98c0-3e5ff868e17d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/aktywneKolko.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/aktywnyKrzyzyk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko00.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/kolko22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/krzyzyk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/puste.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/zLewej.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/zPrawej.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/images/środek.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/PojedynczePole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Ramka.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/WszystkiePola.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/aktywneKolko.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/aktywnyKrzyzyk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko00.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/kolko22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/krzyzyk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/puste.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/zLewej.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/zPrawej.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/images/środek.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/main/Main$1.class" afterPath="$PROJECT_DIR$/bin/main/Main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/main/Main.class" afterPath="$PROJECT_DIR$/bin/main/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Main.java" afterPath="$PROJECT_DIR$/src/main/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/PojedynczePole.java" afterPath="$PROJECT_DIR$/src/main/SingleField.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/Ramka.java" afterPath="$PROJECT_DIR$/src/main/MainWindow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/WszystkiePola.java" afterPath="$PROJECT_DIR$/src/main/GameField.java" />
-    </list>
+    <list default="true" id="7d2fd9e3-8baf-4d47-98c0-3e5ff868e17d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
