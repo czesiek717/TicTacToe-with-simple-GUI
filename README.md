@@ -10,4 +10,6 @@ This project can help you create your own tic tac toe game like this.
 Ready to run .jar game file can be found in out\artifacts\TicTacToe_jar.
 
 Example image:
+
+
 ![alt text](https://raw.githubusercontent.com/czesiek717/TicTacToe-with-simple-GUI/master/res/images/example.png)
