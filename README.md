@@ -7,3 +7,4 @@ Players have to win on three fields inline or across, just like in normal tic ta
 This code is very poorly writen. I didn't knew much about writing code then. 
 This application works, but I don't recommend copy-pasting anything. 
 This project can help you create your own tic tac toe game like this.
+Ready to run .jar game file can be found in out\artifacts\TicTacToe_jar.
